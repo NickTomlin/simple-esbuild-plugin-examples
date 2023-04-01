@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "esbuild": "^0.17.12"
+  },
+  "engines": {
+    "node": ">= 18.0.0"
   }
 }
