@@ -1,7 +1,7 @@
 esbuild-plugin-examples
 ===
 
-This repository contains the source material for my blog post "using esbuild plugins".
+This repository showcases a few different ways to use the [`esbuild plugins`](https://esbuild.github.io/plugins/) API.
 
 ```shell
 $ npm i
